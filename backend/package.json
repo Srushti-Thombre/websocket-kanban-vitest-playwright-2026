@@ -13,9 +13,10 @@
   "dependencies": {
     "@playwright/test": "^1.50.1",
     "@testing-library/react": "^16.2.0",
-    "express": "^4.21.2",
+    "cors": "^2.8.6",
+    "express": "^4.22.1",
     "nodemon": "^3.1.9",
-    "socket.io": "^4.8.1",
+    "socket.io": "^4.8.3",
     "vitest": "^3.0.7"
   }
 }

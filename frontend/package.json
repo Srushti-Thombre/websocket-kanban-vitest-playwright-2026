@@ -12,9 +12,11 @@
     "test:e2e": "npx playwright test"
   },
   "dependencies": {
+    "@hello-pangea/dnd": "^18.0.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "socket.io-client": "^4.8.1"
+    "recharts": "^3.7.0",
+    "socket.io-client": "^4.8.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
